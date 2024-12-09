@@ -1,1 +1,12 @@
 # AprilHostler
+
+## Hey 👋, This is April Hostler
+[![Gmail Badge](https://img.shields.io/badge/-April.baptist@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:April.baptist@gmail.com)](mailto:April.baptist@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/aprilhostler/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/aprilhostler//)](https://www.linkedin.com/in/https://www.linkedin.com/in/aprilhostler//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AprilH1115-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AprilH1115/)](https://www.github.com/https://github.com/AprilH1115/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=AprilH1115/AprilHostler/)](AprilH1115/AprilHostler/) <p align='left'>I am a Director Of Sales here at TripleTen. TripleTen helps people change their lives and thrive in tech. Our top-ranked tech bootcamp programs welcome people from all walks of life, with a guaranteed job in their field, in-depth career prep and portfolio building, and a flexible study format designed for real life. Our graduates land a job in their field at a rate of 87% across our software engineering, QA, data analytics and data science programs. Read our students’ inspiring stories at tripleten.com. We offer a occupational placement guarantee to everyone 
+
+My main focus is to empower individuals and their families in building a life by investing in themselves first. I am your thinking partner. Overall I carry 17+ years of marketing, B2B, project management, product management, quality control and sales experience. I hold a record of achievement with outstanding success in building different partnerships through education and empowerment ensuring full compliance.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/AprilH1115 alt=https://github.com/AprilH1115 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AprilH1115&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/AprilH1115/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AprilH1115&layout=compact)](https://github.com/https://github.com/AprilH1115/github-readme-stats)
